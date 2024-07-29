@@ -1,6 +1,6 @@
 {
-  "domain": "husqvarna_automower_ble",
-  "name": "Husqvarna Automower BLE",
+  "domain": "flymo_automower_ble",
+  "name": "Flymo Automower BLE",
   "bluetooth": [
     {
       "service_uuid": "98bd0001-0b0e-421a-84e5-ddbf75dc6de4",
@@ -13,6 +13,6 @@
   "documentation": "https://github.com/andyb2000/HACS-husqvarna_automower_ble/",
   "issue_tracker": "https://github.com/andyb2000/HACS-husqvarna_automower_ble/issues",
   "iot_class": "local_polling",
-  "requirements": ["git+https://github.com/alistair23/AutoMower-BLE.git@main#automower_ble==0.2.0"],
+  "requirements": ["git+https://github.com/lasry1/AutoMower-BLE.git@main#automower_ble==0.2.0"],
   "version": "0.0.9"
 }
